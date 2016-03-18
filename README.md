@@ -15,3 +15,4 @@ You might've noticed all of the names are in lowercase - this doesn't look great
 1. Create a custom filter to change the first letter of the word to be in uppercase, and apply this to the persons names.
 
 2. Create a custom filter that allows us to filter on the contacts list that only displays contacts from the city that we pass in.
+  
