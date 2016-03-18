@@ -1,7 +1,6 @@
 function ContactController() {
     this.contacts = [
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "liam",
@@ -26,7 +25,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "jayden",
@@ -51,7 +49,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "mary",
@@ -76,7 +73,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "holly",
@@ -101,7 +97,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "heidi",
@@ -126,7 +121,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "susan",
@@ -151,7 +145,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "bobby",
@@ -176,7 +169,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "suzy",
@@ -201,7 +193,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "steven",
@@ -226,7 +217,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "pat",
@@ -251,7 +241,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "jessica",
@@ -276,7 +265,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "liam",
@@ -301,7 +289,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "larry",
@@ -326,7 +313,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "edward",
@@ -351,7 +337,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "heather",
@@ -376,7 +361,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "marie",
@@ -401,7 +385,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "kelly",
@@ -426,7 +409,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "melissa",
@@ -451,7 +433,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "leo",
@@ -476,7 +457,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "vincent",
@@ -501,7 +481,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "rebecca",
@@ -526,7 +505,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "chad",
@@ -551,7 +529,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "ava",
@@ -576,7 +553,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "rafael",
@@ -601,7 +577,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "eugene",
@@ -626,7 +601,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "molly",
@@ -651,7 +625,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "kayla",
@@ -676,7 +649,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "ted",
@@ -701,7 +673,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "diane",
@@ -726,7 +697,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "alice",
@@ -751,7 +721,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "daniel",
@@ -776,7 +745,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "timothy",
@@ -801,7 +769,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "judy",
@@ -826,7 +793,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "britney",
@@ -851,7 +817,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "alison",
@@ -876,7 +841,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "terrance",
@@ -901,7 +865,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "ethan",
@@ -926,7 +889,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "maya",
@@ -951,7 +913,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "brandon",
@@ -976,7 +937,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "gregory",
@@ -1001,7 +961,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "lee",
@@ -1026,7 +985,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "vincent",
@@ -1051,7 +1009,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "linda",
@@ -1076,7 +1033,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "glen",
@@ -1101,7 +1057,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "howard",
@@ -1126,7 +1081,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "tracey",
@@ -1151,7 +1105,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "rose",
@@ -1176,7 +1129,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "tyler",
@@ -1201,7 +1153,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "suzy",
@@ -1226,7 +1177,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "billy",
@@ -1251,7 +1201,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "abby",
@@ -1276,7 +1225,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "clayton",
@@ -1301,7 +1249,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "marcus",
@@ -1326,7 +1273,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "chloe",
@@ -1351,7 +1297,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "linda",
@@ -1376,7 +1321,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "matthew",
@@ -1401,7 +1345,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "kirk",
@@ -1426,7 +1369,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "isabella",
@@ -1451,7 +1393,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "terry",
@@ -1476,7 +1417,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "britney",
@@ -1501,7 +1441,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "dick",
@@ -1526,7 +1465,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "linda",
@@ -1551,7 +1489,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "cathy",
@@ -1576,7 +1513,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "norman",
@@ -1601,7 +1537,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "amanda",
@@ -1626,7 +1561,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "tracy",
@@ -1651,7 +1585,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "jessica",
@@ -1676,7 +1609,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "ellen",
@@ -1701,7 +1633,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "holly",
@@ -1726,7 +1657,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "heidi",
@@ -1751,7 +1681,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "james",
@@ -1776,7 +1705,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "ella",
@@ -1801,7 +1729,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "lonnie",
@@ -1826,7 +1753,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "diana",
@@ -1851,7 +1777,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "molly",
@@ -1876,7 +1801,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "diana",
@@ -1901,7 +1825,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "patricia",
@@ -1926,7 +1849,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "adrian",
@@ -1951,7 +1873,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "vicki",
@@ -1976,7 +1897,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "caroline",
@@ -2001,7 +1921,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "ernest",
@@ -2026,7 +1945,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "isabella",
@@ -2051,7 +1969,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "ellen",
@@ -2076,7 +1993,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "paige",
@@ -2101,7 +2017,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "sophia",
@@ -2126,7 +2041,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "ronnie",
@@ -2151,7 +2065,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "jessie",
@@ -2176,7 +2089,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "kenneth",
@@ -2201,7 +2113,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "mary",
@@ -2226,7 +2137,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "julia",
@@ -2251,7 +2161,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "abbie",
@@ -2276,7 +2185,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "eva",
@@ -2301,7 +2209,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "justin",
@@ -2326,7 +2233,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "dylan",
@@ -2351,7 +2257,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "izzie",
@@ -2376,7 +2281,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "izzie",
@@ -2401,7 +2305,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "byron",
@@ -2426,7 +2329,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "rose",
@@ -2451,7 +2353,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "alex",
@@ -2476,7 +2377,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "brittany",
@@ -2501,7 +2401,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "linda",
@@ -2526,7 +2425,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "deborah",
@@ -2551,7 +2449,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "marie",
@@ -2576,7 +2473,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "thomas",
@@ -2601,7 +2497,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "lily",
@@ -2626,7 +2521,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "thomas",
@@ -2651,7 +2545,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "brooke",
@@ -2676,7 +2569,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "dennis",
@@ -2701,7 +2593,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "elliot",
@@ -2726,7 +2617,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "sara",
@@ -2751,7 +2641,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "mandy",
@@ -2776,7 +2665,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "stanley",
@@ -2801,7 +2689,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "tom",
@@ -2826,7 +2713,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "lily",
@@ -2851,7 +2737,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "amy",
@@ -2876,7 +2761,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "william",
@@ -2901,7 +2785,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "kelly",
@@ -2926,7 +2809,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "avery",
@@ -2951,7 +2833,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "martha",
@@ -2976,7 +2857,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "caroline",
@@ -3001,7 +2881,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "caitlin",
@@ -3026,7 +2905,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "wade",
@@ -3051,7 +2929,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "molly",
@@ -3076,7 +2953,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "thomas",
@@ -3101,7 +2977,6 @@ function ContactController() {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "ellie",
