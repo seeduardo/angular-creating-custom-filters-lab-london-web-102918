@@ -10,8 +10,7 @@
 
 In this repo we've got a massive list of contacts repeated in a table.
 
-You might've noticed all of the names are in lowercase - this doesn't look great.
+You might've noticed all of the names are in lowercase — this doesn't look great.
 
-1. Create a custom filter to change the first letter of the word to be in uppercase, and apply this to the persons names.
-
-2. Create a custom filter that allows us to filter on the contacts list that only displays contacts from the city that we pass in.
+1. Create a custom filter to capitalize the first letter of each name.
+2. Create another custom filter that allows us to filter the contact list by city. We should be able to pass in the name of a city as an argument and receive a filtered list displaying only contacts from that city.
